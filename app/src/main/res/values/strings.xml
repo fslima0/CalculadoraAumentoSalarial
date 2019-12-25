@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculo de Salário</string>
+    <string name="radio_1">40%</string>
+    <string name="radio_2">45%</string>
+    <string name="radio_3">50%</string>
+    <string name="btn_1">Calcular novo Salário</string>
+</resources>
